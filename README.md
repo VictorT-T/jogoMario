@@ -14,14 +14,16 @@ EXEMPLIFICAR POR MEIO DE UM GAME AS FUNÇÕES E UM PEQUENO GOSTO DAS FERRAMENTAS
 - JavaScript
 
 ## Instalação
-```bash
+`Pré-requisito: [Node.js](Https://ondejs.org) instalado.
+
+bash
 git clone https://github.com/VictorT-T/jogoMario.git
 cd jogoMario/frontend
 npm install
 ```
 
 ## Execução
-```bash
+bash
 npm run dev
 ```
 
