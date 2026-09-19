@@ -1,10 +1,12 @@
 # Jogo Mario
 
 ## Descrição
-Jogo Mario do trabalho de Web Coding
+JOGO SIMPLES USANDO COMO BASE O HTML/CSS/JAVASCRIPT E GITHUB.
+USANDO COMO BASE SPRITES DO SUPER MARIO WORLD COM UM CODIGO PESSOAL DE CADA USUARIO DENTRO DO TEMPO ESTABELECIDO.
+
 
 ## Objetivo
-Aplicar Git e GitHub no versionamento do Jogo Mario para desenvolver habilidades na execução de comandos git e no entendimento do desenvolvimento em equipe.
+EXEMPLIFICAR POR MEIO DE UM GAME AS FUNÇÕES E UM PEQUENO GOSTO DAS FERRAMENTAS APRESENTADAS E INTRODUZIR A NOVAS.
 
 ## Tecnologias
 - HTML
