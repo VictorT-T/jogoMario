@@ -1,19 +1,19 @@
 # Jogo Mario
 
 ## Descrição
-Jogo Mario Interativo
+Jogo Mario do trabalho de Web Coding
 
 ## Objetivo
-Aplicar Git e GitHub no versionamento do Jogo Mario.
+Aplicar Git e GitHub no versionamento do Jogo Mario para desenvolver habilidades na execução de comandos git e no entendimento do desenvolvimento em equipe.
 
 ## Tecnologias
 - HTML
 - CSS
-- Javascript
+- JavaScript
 
 ## Instalação
 ```bash
-git clone https://github.com/SEU_USUARIO/jogoMario.git
+git clone https://github.com/VictorT-T/jogoMario.git
 cd jogoMario/frontend
 npm install
 ```
